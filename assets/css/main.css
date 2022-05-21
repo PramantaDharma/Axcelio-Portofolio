@@ -78,7 +78,7 @@ h5{
     min-height: 100vh;
     z-index: 999;
     display: none;
-    box-shadow: box-shadow: 19px 7px 54px -11px rgba(173,0,255,0.75);
+    box-shadow: 19px 7px 54px -11px rgba(173,0,255,0.75);
     -webkit-box-shadow: 19px 7px 54px -11px rgba(173,0,255,0.75);
     -moz-box-shadow: 19px 7px 54px -11px rgba(173,0,255,0.75);;
 }
